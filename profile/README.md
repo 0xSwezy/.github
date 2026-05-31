@@ -6,6 +6,8 @@
 <img src="https://komarev.com/ghpvc/?username=0xswezy&label=Profile%20Views&color=000000&style=flat-square" alt="0xswezy" />
 <br /><br />
 
+<img src="https://lanyard.cnrad.dev/api/1488642490150949075?borderRadius=5px&idleMessage=Idle&bg=a&animated=true;" alt="RPC" />
+
 | 0xSwezy Profile |
 | :--- |
 | <br /> **About** <br /> Penetration tester & security researcher from Germany. 17 years old, working professionally at Netvolo. Building tools, automations, and fullstack apps — while breaking things apart to understand them. <br /><br /> **Contact & Links** <br /> <a href="https://swezy.dev"><img src="https://img.shields.io/badge/Website-swezy.dev-000000?style=for-the-badge&logo=awesomelists&logoColor=white" alt="swezy.dev" /></a> <a href="https://swezy.dev/telegram"><img src="https://img.shields.io/badge/Telegram-@Swezy-000000?style=for-the-badge&logo=telegram&logoColor=white" /></a> <a href="https://swezy.dev/twitter"><img src="https://img.shields.io/badge/Twitter-@Swezy＿1337-000000?style=for-the-badge&logo=x&logoColor=white" /></a> <a href="https://swezy.dev/discord"><img src="https://img.shields.io/badge/Discord-Server-000000?style=for-the-badge&logo=discord&logoColor=white" /></a> <a href="mailto:contact@swezy.dev"><img src="https://img.shields.io/badge/Email-contact@swezy.dev-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://swezy.dev/pgp-key.asc"><img src="https://img.shields.io/badge/PGP_Key-Email-000000?style=for-the-badge&logo=keeweb&logoColor=white" /></a> <br /><br /> |
